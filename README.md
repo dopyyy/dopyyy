@@ -1,10 +1,12 @@
 <p>
-  <h1Hello, </h1>
   <h2>Current Quests 🚀</h2>
   <ul>
     <li>Staff for <a href="https://discord.gg/VyRPheG6Es">Work FiveM Community</a></li>
-    <li>Crafting worlds @ Flashland WL</li>
-    <li>Creator of Reborn RP v1</li>
+  </ul>
+      <h2>Past Quests ⚔️</h2>
+  <ul>
+    <li>Developer for Flashland WL</li>
+    <li>Architect of Reborn RP v1</li>
   </ul>
   <br/>
   <picture>
