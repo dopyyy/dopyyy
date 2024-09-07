@@ -5,7 +5,7 @@
   </ul>
       <h2>Past Quests ⚔️</h2>
   <ul>
-    <li>Developer for Flashland WL</li>
+    <li>Developer for <a href="https://discord.gg/flashland">Flashland WL</a></li>
     <li>Architect of Reborn RP v1</li>
   </ul>
   <br/>
