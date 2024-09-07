@@ -1,6 +1,6 @@
 <p>
-  <h1>What's up, Code Ninjas & Cyber Queens? 👾</h1>
-  <h2>About the Wizard Behind the Curtain</h2>
+  <h1>Hey</h1>
+  <h2>About me</h2>
   <ul>
     <li>Code Alchemist @ <a href="https://fivem.net/">FiveM</a></li>
     <li>Coordinates: <strong>127.0.0.1</strong></li>
