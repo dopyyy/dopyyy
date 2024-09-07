@@ -1,10 +1,5 @@
 <p>
-  <h1>Hey</h1>
-  <h2>About me</h2>
-  <ul>
-    <li>Code Alchemist @ <a href="https://fivem.net/">FiveM</a></li>
-    <li>Coordinates: <strong>127.0.0.1</strong></li>
-  </ul>
+  <h1Hello, </h1>
   <h2>Current Quests 🚀</h2>
   <ul>
     <li>Staff for <a href="https://discord.gg/VyRPheG6Es">Work FiveM Community</a></li>
