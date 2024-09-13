@@ -17,7 +17,7 @@ Here's what I like working with:
 
 - **Languages:** [LUA, MYSQL, JS]
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <details>
   <summary>Click to show/hide GitHub Stats</summary>
