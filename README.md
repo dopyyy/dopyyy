@@ -17,9 +17,15 @@ Here's what I like working with:
 
 - **Languages:** [LUA, MYSQL, JS]
 
-## GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrdop51&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrdop51&theme=dark&hide_border=true" />
-</p>
+<details>
+  <summary>Click to show/hide GitHub Stats</summary>
+
+  <p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrdop51&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrdop51&theme=dark&hide_border=true" />
+  </p>
+  
+</details>
+
