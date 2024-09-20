@@ -23,9 +23,13 @@ Here's what I like working with:
   <summary>Click to show/hide</summary>
 
   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrdop51&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrdop51&theme=dark&hide_border=true" />
-  </p>
+  <a href="https://discord.com/users/472132977195876353">
+    <img src="https://lanyard.cnrad.dev/api/472132977195876353" alt="Discord Presence"/>
+  </a>
+  <br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrdop51&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
   
 </details>
 
